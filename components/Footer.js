@@ -2,7 +2,7 @@
 export default function Footer() {
   return (
     <footer className="footer">
-      <p>© {new Date().getFullYear()} StaticBlog - Built with Next.js SSG</p>
+      <p>© {new Date().getFullYear()} Jafar Sadik - SSG & ISR Demo</p>
     </footer>
   );
 }
